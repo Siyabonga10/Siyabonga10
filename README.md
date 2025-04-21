@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siabunga!
+# 👋 Hi, I'm Siyabonga!
 
 Welcome to my GitHub portfolio! I'm a final-year Electrical and Information Engineering student at the University of the Witwatersrand, South Africa. I have a strong passion for software development and enjoy building innovative and efficient solutions. Below, you'll find a showcase of my skills, projects, and how to connect with me.
 
